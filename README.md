@@ -1,6 +1,9 @@
-## 👋 Hi I'm José Elguea
+## Hi, I'm José Elguea 
 
-I'm a game developer with a strong interest in gameplay programming and interactive systems. I primarily work with C# and C++ using Unity and Godot, and I also have some experience with using Unreal Engine too.
-I graduated in Video Game Design and Development from UNIR University, where I developed projects ranging from gameplay prototypes to complete vertical slices.
-I'm passionate about creating engaging player experiences and enjoy solving technical and design challenges.
-I'm currently expanding my skills by building personal projects in Unity and Godot while continuing to learn new tools and development practices.
+**Gameplay Programmer** · Unity · Godot · C# · C++
+
+I build gameplay systems and game AI, with a growing interest in VR. I graduated in Video Game Design and Development from UNIR in 2026 and completed an internship at DeuSens, developing features for an interactive table in Godot as part of a team.
+
+Right now I'm strengthening my C++ by building games without an engine, using raylib.
+
+**Portfolio:** [jose-elar.github.io](https://jose-elar.github.io)
